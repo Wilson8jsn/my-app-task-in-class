@@ -1,4 +1,5 @@
-// EcuadorFlagApp.tsx
+<<<<<<< HEAD
+
 import React, { useState } from 'react';
 import { StyleSheet, View, TouchableOpacity, Text } from 'react-native';
 
@@ -56,3 +57,5 @@ const styles = StyleSheet.create({
 });
 
 export default EcuadorFlagApp;
+=======
+>>>>>>> parent of cf91057 (commit)
